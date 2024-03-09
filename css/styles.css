@@ -11,8 +11,14 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
  * {
-  font-family: "Noto Sans KR"
+  font-family: "Noto Sans KR";
  }
+
+ a.menu-href {
+  color: #0D6EFD;
+  text-decoration: none;
+ }
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
